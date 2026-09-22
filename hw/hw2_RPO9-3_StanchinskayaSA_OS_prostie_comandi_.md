@@ -148,7 +148,7 @@
 
 ![скриншот_7](../screenshots/2/image7.png)
 <br>
-<small><em>Рисунок 7. -maxdepth, -tipe</em></small>
+<small><em>Рисунок 7. find, -maxdepth, -type</em></small>
 
 </div>
 
@@ -160,7 +160,7 @@
 
 ![скриншот_8](../screenshots/2/image8.png)
 <br>
-<small><em>Рисунок 8. -maxdepth, -tipe</em></small>
+<small><em>Рисунок 8. find, -maxdepth, -type</em></small>
 
 </div>
 
@@ -176,7 +176,7 @@
 
 ![скриншот_9](../screenshots/2/image9.png)
 <br>
-<small><em>Рисунок 9. </em></small>
+<small><em>Рисунок 9.  find, -user, -type</em></small>
 
 </div>
 
@@ -192,10 +192,12 @@
 |`-exec`| execute (выполнить) "начало цикла" |
 |`{}`| контейнер для значений, которые передает find |
 |`\;`| ; - конец "цикла", \ - чтобы терминал не перехватывал|
+|||
+|`2>/dev/null`| ошибки (2) переправить (>) в "черную дыру" (/dev/null)|
 
 ![скриншот_10](../screenshots/2/image10.png)
 <br>
-<small><em>Рисунок 10. </em></small>
+<small><em>Рисунок 10. find, -exec, grep</em></small>
 
 </div>
 
