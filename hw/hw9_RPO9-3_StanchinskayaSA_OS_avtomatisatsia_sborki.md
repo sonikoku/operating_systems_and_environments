@@ -63,7 +63,7 @@
 
 ![скриншот_3](../screenshots/9/image3.png)
 <br>
-<small><em>Рисунок 3. ... </em></small>
+<small><em>Рисунок 3. make build </em></small>
 
 </div>
 
